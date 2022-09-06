@@ -1,2 +1,2 @@
 # SollewittProj
-This is my mini project 1
+Rectangles covering a wall both vertically and horizontally divided. With different-sized circles placed on top.
